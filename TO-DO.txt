@@ -1,0 +1,25 @@
+
+
+##### Initialize and modify these files to prepare implementing custom content
+
+* Following [this](https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f)
+guide.
+
+[ ] __init__.py
+[ ] app.py
+[ ] assets
+[ ] 	|-- logo.jpeg
+[ ] 	|-- custom.css
+[ ] 	|-- favicon.ico
+[ ] callbacks.py
+[ ] components
+[ ]     |-- __init__.py
+[ ]     |-- functions.py
+[ ]     |-- header.py
+[ ]     |-- printButton.py
+[ ]  data
+[ ]     |-- datafile.csv
+[ ]  index.py
+[ ]  layouts.py
+[ ]  Procfile
+[ ]  requirements.txt
